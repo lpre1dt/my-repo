@@ -6,4 +6,4 @@ Features:
 📊 Fortschrittsanzeige während des Publishings
 ✅ Status-Anzeige: Success/Error mit Retry-Option
 💾 Persistenz: Settings werden im localStorage gespeichert
-🌳 Trees API: Alle Dateien werden in einem einzigen Commit gepusht
+🌳 Trees API: Alle Dateien werden in einem einzigen Commit gepusht!!
