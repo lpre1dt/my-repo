@@ -7,7 +7,7 @@ Bitte Beachten
 dsasad
 - Festes Schuhwerk
 - Gute Laune
-- Bier
+- Bier 2
 
 |  Kuchen | Person |  
 | -------- | -------- | 
